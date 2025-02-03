@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "modantonadia1:item/i_got_bitches_music_disc"
+  }
+}
